@@ -1,5 +1,9 @@
 package com.qrcode.util;
 
-public class DecodeUtil {
+import java.io.File;
 
+public class DecodeUtil {
+	public void Decode(File QRCodeFile) {
+		
+	}
 }
